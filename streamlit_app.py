@@ -38,13 +38,9 @@ except URLError as e:
     streamlit.error()
  
 #streamlit.write('The user entered ', fruit_choice)
-
 # import requests
-
 # REMOVE streamlit.text(fruityvice_response.json()) # Just writes the data to the screen
-
 # write your own comment -what does the next line do? 
-
 # write your own comment - what does this do?
 # streamlit.dataframe(fruityvice_normalized)
 
